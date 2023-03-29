@@ -6,7 +6,20 @@
 Me encanta resolver problemas con Tecnologías Web, estoy estudiando para ser Desarrollador Frontend y Backend. Me encanta aprender nuevas tecnologías, enseñar a otras personas y compartir lo que sé. 💁 Espero que mis proyectos te interesen. 😀
  <div align="left">
   <h1 align="left">Tecnologias</h1>
-  hola
+  <table border="0">
+        <thead>
+            <tr>
+                <th>Frontend</th>
+                <th>Backend</th>
+                <th>Other Tools</th>
+
+            </tr>   
+        </thead>
+        <tbody>
+           <tr>
+          </tr>
+         </tbody>
+    </table>
  </div>
 
 
