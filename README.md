@@ -15,10 +15,7 @@ Me encanta resolver problemas con Tecnologías Web, estoy estudiando para ser De
 
             </tr>   
         </thead>
-        <tbody>
-           <tr>
-          </tr>
-         </tbody>
+       
     </table>
  </div>
 
