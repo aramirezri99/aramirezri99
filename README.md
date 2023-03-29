@@ -13,6 +13,9 @@ Me encanta resolver problemas con Tecnologías Web, estoy estudiando para ser De
     <img src="https://github.com/devicons/devicon/raw/master/icons/bootstrap/bootstrap-plain.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40" style="max-width: 100%;">
     <img src="https://github.com/devicons/devicon/raw/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40" style="max-width: 100%;">
     <img src="https://github.com/devicons/devicon/raw/master/icons/git/git-original-wordmark.svg" title="Git" width="40" height="40" style="max-width: 100%;">
+    <img src="https://github.com/devicons/devicon/raw/master/icons/php/php-plain.svg" title="Git" width="40" height="40" style="max-width: 100%;">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original-wordmark.svg" title="Git" width="40" height="40" style="max-width: 100%;">
+    
   </div>
  </div>
 
