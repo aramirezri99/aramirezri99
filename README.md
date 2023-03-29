@@ -6,31 +6,11 @@
 Me encanta resolver problemas con Tecnologías Web, estoy estudiando para ser Desarrollador Frontend y Backend. Me encanta aprender nuevas tecnologías, enseñar a otras personas y compartir lo que sé. 💁 Espero que mis proyectos te interesen. 😀
  <div align="left">
   <h1 align="left">Tecnologias</h1>
-  <table border="0">
-        <thead>
-            <tr>
-                <th>Frontend</th>
-                <th>Backend</th>
-                <th>Other Tools</th>
-
-            </tr>   
-        </thead>
-    <tbody>
-      <tr>
-        <td>
-          hol
-          </td>
-          1
-                <td>
-           1       
-                </td>
-                <td>
-            1        
-                </td>
-      </tr>
-    </tbody>
-       
-    </table>
+  <div align="left">
+      <img src="https://github.com/devicons/devicon/raw/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40" style="max-width: 100%;">
+      <img src="https://github.com/devicons/devicon/raw/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS" width="40" height="40" style="max-width: 100%;">
+     <img src="https://github.com/devicons/devicon/raw/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40" style="max-width: 100%;">
+  </div>
  </div>
 
 
